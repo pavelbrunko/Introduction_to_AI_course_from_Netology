@@ -21,3 +21,7 @@ In this notebook the main goal was to research the "Fisher's Iris" dataset, lear
 In this part I tried to classify dataset with pictures of flowers using torchvision. I took alexnet model and replace the last layer to make the model more suitable for my dataset. In the second part I tried to use some method to avoid ovefitiing for my model
 
 ---
+
+In file 'introduction to AI (practice).ipynb' you can find some more practice with little 'toy' dataset, like in was in Hometask 1 and Hometask 1 (hard)
+
+In file Regression_BostonHousePrices.ipynb you can find materials from the lecture about logistic regression. Notebook consist of preparing dataset with house prices in Boston, building logistic regression model 'from the box' from sclearn, building log_reg model with PyThorch, building MLP with three hidden layers and mesuring metrics for every model was built.
